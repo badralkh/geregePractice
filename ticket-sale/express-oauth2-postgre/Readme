@@ -1,0 +1,4 @@
+/oauth/signup
+/oauth/verify
+/ticket/sale
+/ticket/verifyCheckedin
