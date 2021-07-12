@@ -1,0 +1,24 @@
+{
+  "name": "express-oauth2-postgre",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "bwip-js": "^3.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-oauth-server": "^2.0.0",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "pg-promise": "^10.10.2",
+    "sequelize": "^6.6.4"
+  }
+}
